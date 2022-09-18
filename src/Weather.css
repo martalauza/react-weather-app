@@ -42,3 +42,6 @@
   line-height: 1;
   top: -34px;
 }
+.float-left {
+  float: left;
+}
