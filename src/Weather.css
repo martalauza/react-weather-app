@@ -44,3 +44,10 @@
 .float-left {
   float: left;
 }
+.btn-success {
+  background-color: #e9658c;
+  border: none;
+}
+.btn.btn-success:hover {
+  background-color: #ec8cb5;
+}
