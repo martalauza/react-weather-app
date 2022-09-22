@@ -5,9 +5,17 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Riga" />
+        <Weather defaultCity="Reykjavik" />
         <footer>
-          This project was created by Marta Lauza and is{" "}
+          This project was created by{" "}
+          <a
+            href="https://glittery-selkie-cacbc9.netlify.app/aboutme.html"
+            target="blank"
+            rel="noopener noreferrer"
+          >
+            Marta Lauza{" "}
+          </a>
+          and is{" "}
           <a
             href="https://github.com/martalauza/react-weather-app"
             target="blank"
